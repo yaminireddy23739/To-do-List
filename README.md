@@ -6,6 +6,7 @@ A simple and clean To-Do List application built using HTML, CSS, and JavaScript.
 
 🚀 Features
 Add tasks dynamically
+
 Delete tasks easily
 Task counter updates automatically
 Empty state message when no tasks are present
