@@ -1,26 +1,35 @@
-To-Do List Web Application
+# To-Do List Web Application 📝
 
 This is Day 3 of my 15 Days Web Development Challenge, where I’m building projects from beginner to advanced level.
 
-A simple and clean To-Do List application built using HTML, CSS, and JavaScript.
+A simple and interactive **To-Do List web app** built using **HTML, CSS, and JavaScript** as part of my front-end learning journey.
 
-🚀 Features
-Add tasks dynamically
+This project focuses on understanding **DOM manipulation, event handling, and UI behavior** in a real-world scenario.
 
-Delete tasks easily
-Task counter updates automatically
-Empty state message when no tasks are present
-Responsive and clean UI
+## 🚀 Features
 
-🛠️ Technologies Used
-HTML
-CSS
-JavaScript (DOM Manipulation)
+- Add new tasks
+- Delete tasks
+- Live task counter
+- Smart empty-state message handling
+- Clean and responsive UI
+- Instant updates without page reload
 
-🎯 Purpose of this Project
-This project was built to:
-Practice JavaScript fundamentals
-Understand DOM manipulation
-Learn how real-world UI logic works
-Improve frontend development skills
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure  
+- **CSS3** – Styling & layout  
+- **JavaScript  – Functionality & logic  
+
+
+
+
+## 📚 What I Learned
+
+- DOM selection using 'getElementById`
+- Event listeners for button clicks
+- Dynamic element creation using JavaScript
+- Importance of UI/UX feedback
+- Debugging logical and naming errors
+- Writing cleaner and readable code
 
