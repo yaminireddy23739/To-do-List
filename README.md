@@ -19,7 +19,7 @@ This project focuses on understanding **DOM manipulation, event handling, and UI
 
 - **HTML5** – Structure  
 - **CSS3** – Styling & layout  
-- **JavaScript  – Functionality & logic  
+- **JavaScript** – Functionality & logic  
 
 
 
